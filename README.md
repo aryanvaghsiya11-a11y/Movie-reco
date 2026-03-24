@@ -4,6 +4,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-lightgrey.svg)
 
+![image alt](https://github.com/aryanvaghsiya11-a11y/Movie-reco/blob/deef10ed66d6d7104ba02c60e65237ef2c509035/MovieRecomedation.png)
+
 ## 📌 Overview
 This project is a Machine Learning-based **Content-Based Movie Recommendation System**. By analyzing textual data such as movie genres, keywords, and plot overviews, the system calculates the similarity between different films and recommends a list of movies that closely match the user's input. The Movie Recommendation System! In an era of endless entertainment choices, finding the perfect movie to watch can often be overwhelming. This project provides a robust, machine learning-based recommendation engine that suggests movies based on content similarity, helping users effortlessly discover films tailored specifically to their tastes.
 
